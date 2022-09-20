@@ -1,5 +1,7 @@
-This project has been done using React Js technologies. 
+# https://barber.uz/
 
+# On that website i've used a lot of texnologies such as:
 
-
-If you want to see this project you should download files, then download node modules (npm install), and at last start the project (npm start) 
+# * React Js
+# * Redux
+# * SASS || Bootstrap for styles
